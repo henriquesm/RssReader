@@ -1,0 +1,14 @@
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\bin\Release\RssReader.exe.config
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\bin\Release\RssReader.exe
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\bin\Release\RssReader.pdb
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\bin\Release\Interop.WMPLib.dll
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\bin\Release\AxInterop.WMPLib.dll
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\obj\Release\Interop.WMPLib.dll
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\obj\Release\AxInterop.WMPLib.dll
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\obj\Release\RssReader.csproj.ResolveComReference.cache
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\obj\Release\RssReader.Form1.resources
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\obj\Release\RssReader.Properties.Resources.resources
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\obj\Release\RssReader.csproj.GenerateResource.Cache
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\obj\Release\RssReader.exe
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\obj\Release\RssReader.pdb
+C:\Users\443700370\Documents\Visual Studio 2012\Projects\RssReader\RssReader\obj\Release\RssReader.csprojResolveAssemblyReference.cache

@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<RSS>
+<Podcast>
+  <link>http://www.scicast.com.br/category/podcasts/scicast/feed/</link>
+  <nome>SCICAST</nome>
+  <ativo></ativo>
+  <arquivo></arquivo>
+</Podcast>
+<Podcast>
+  <link>http://feed.nerdcast.com.br</link>
+  <nome>NERDCAST</nome>
+  <ativo></ativo>
+  <ativo></ativo>
+  <arquivos></arquivos>
+</Podcast>
+  <Podcast>
+    <link>http://www.comp.ita.br/~pichilia/FeedDatabaseCast.xml</link>
+    <nome>DATABASECAST</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://feed.redegeek.com.br/podcasts</link>
+    <nome>REDE GEEK</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://feeds.feedburner.com/radiofobia_podcast</link>
+    <nome>RadioFobia</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://debatehistorico.com.br/feed/podcast/</link>
+    <nome>Debate Historico</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://feeds.feedburner.com/telhacast</link>
+    <nome>Telha Cast</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://feeds.podbr.com/CafeBrasil</link>
+    <nome>Café Brasil</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://azilator.com.br/feed/azilacast.xml</link>
+    <nome>Azilator</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://escribacafe.com/feed/podcast/</link>
+    <nome>Escriba Cafe</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://www.staysafepodcast.com.br/?feed=atom</link>
+    <nome>STAYSAFE</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://s3.amazonaws.com/PodcastSegurancaLegal/itunesfeed.xml</link>
+    <nome>Segurança Legal</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://cabinedotempo.com.br/feed/</link>
+    <nome>Cabine Historico</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+  <Podcast>
+    <link>http://feeds.feedburner.com/historiacast</link>
+    <nome>Historia Cast</nome>
+    <ativo></ativo>
+    <arquivos></arquivos>
+  </Podcast>
+</RSS>
