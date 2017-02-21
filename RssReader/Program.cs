@@ -17,6 +17,10 @@ namespace RssReader
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
+
+
+            //teste git 
+            //teste git 2
         }
     }
 }
